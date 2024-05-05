@@ -1,0 +1,54 @@
+.container {
+  margin: 50px 0px;
+}
+.border-info {
+  border: 2px solid blue;
+  width: 95%;
+}
+.nav-info {
+  color: black;
+}
+.center {
+  text-align: center;
+  padding: 20px 60px 50px 0;
+}
+.part-1 {
+  background-color: rgba(241, 248, 247, 0.708);
+}
+.grid-container {
+  margin-top: 20px;
+  margin-left: 10px;
+  display: grid;
+  grid-template-columns: 395px 395px 395px;
+}
+.grid-item {
+  width: 390px;
+  height: 300px;
+  padding: 0 0 0 25px;
+}
+.after-image {
+  font-size: 25px;
+  margin: 0;
+  text-align: center;
+}
+.hr-style {
+  margin-left: 30px;
+  width: 94%;
+}
+.table-center {
+  margin-top: 40px;
+  margin-left: 30px;
+}
+.sponsors-size {
+  vertical-align: top;
+  font-size: 30px;
+  font-weight: 500;
+  width: 400px;
+}
+.footer {
+  margin-left: 30px;
+  display: flex;
+  justify-content: space-between;
+  margin-right: 50px;
+  margin-top: 30px;
+}
